@@ -63,5 +63,5 @@ Full-stack e-commerce application built as part of my web development training.
 
 ## Connect with me
 
-* LinkedIn:[Your LinkedIn URL](https://www.linkedin.com/in/nagisa-riegler/)
+* LinkedIn:[LinkedIn URL](https://www.linkedin.com/in/nagisa-riegler/)
 * Email: nagisa.riegler@gmail.com
